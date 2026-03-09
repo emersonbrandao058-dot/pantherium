@@ -27,11 +27,6 @@ A ideia do design foi criar um visual **dark premium com detalhes em verde neon*
 
 ---
 
-# 🖥️ Preview do Projeto
-
-<img src="images/galeria/logo-pantherium.jpeg" width="600">
-
----
 
 # 📂 Estrutura do Projeto
 
